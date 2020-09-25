@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advance Root",
+  "main": "lib/server.js",
+  "repository": "https://github.com/mehal123/ad`vanced-react",
+  "author": "Amanpreet Singh",
+  "license": "MIT"
+}
